@@ -1,0 +1,22 @@
+{
+  "author": "tlk",
+  "name": "warlock-test",
+  "version": "0.0.1",
+  "homepage": "http://foo.com",
+  "licenses": {
+    "type": "MIT",
+    "url": "https://raw.github.com/ngbp/ngbp/master/LICENSE"
+  },
+  "bugs": "https://github.com/ngbp/ngbp/issues",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ngbp/ngbp.git"
+  },
+  "devDependencies": {
+    "warlock-engine": "^1.0.0-alpha.2",
+    "warlock-spell-angular": "~1.0",
+    "warlock-spell-coffeescript": "~1.0.0-alpha.1",
+    "warlock-spell-sass": "~1.0.0-alpha.1",
+    "warlock-spell-jade": "~1.0.0"
+  }
+}
